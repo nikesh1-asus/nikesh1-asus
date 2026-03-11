@@ -2,7 +2,7 @@
 ### A passionate Full Stack developer from Nepal | Remote Working All over the World
 
 ## 🔭 I’m currently working on
-[Smart IoT Home Automation](https://github.com/nikesh1-asus/E-Commerce-Site.git)
+[E-Commerce Site](https://github.com/nikesh1-asus/E-Commerce-Site.git)
 
 ## 🌱 I’m currently learning
 React, Node.js, Django, AI/ML, IoT Development
@@ -79,6 +79,12 @@ I thrive on solving real-world problems, exploring new technologies, and buildin
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) 
+
+
+## 🛠 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+*GitHub is my primary version control system for all projects.*
 
 
 ## 🌱 Currently Learning
