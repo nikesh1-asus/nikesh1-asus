@@ -2,26 +2,6 @@
 
 🏆 Developer | Open Source Enthusiast | Always Learning  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikesh1-asus&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikesh1-asus&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikesh1-asus&layout=compact&theme=radical)  
-
----
-
-## 🔥 GitHub Streak & Contribution Snake
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=nikesh1-asus&theme=radical)  
-![snake gif](https://github.com/nikesh1-asus/nikesh1-asus/blob/output/github-contribution-grid-snake.svg)
-
----
-
-
-
 ## 🌱 I’m currently learning
 React, Node.js, Django, AI/ML, IoT Development
 
