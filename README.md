@@ -1,12 +1,6 @@
 # Hi 👋, I'm Nikesh Ojha
 🏆 Developer | Open Source Enthusiast | Always Learning  
 
-## 🏆 GitHub Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikesh1-asus&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikesh1-asus&show_icons=true&theme=radical)
