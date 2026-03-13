@@ -1,8 +1,27 @@
 # Hi 👋, I'm Nikesh Ojha
-### A passionate Full Stack developer from Nepal | Remote Working All over the World
+🏆 Developer | Open Source Enthusiast | Always Learning  
 
-## 🔭 I’m currently working on
-[E-Commerce Site](https://github.com/nikesh1-asus/E-Commerce-Site.git)
+## 🏆 GitHub Profile Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikesh1-asus&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikesh1-asus&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikesh1-asus&layout=compact&theme=radical)
+
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=nikesh1-asus&theme=radical)
+
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/nikesh1-asus/nikesh1-asus/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🌱 I’m currently learning
 React, Node.js, Django, AI/ML, IoT Development
