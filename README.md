@@ -23,13 +23,7 @@ Beyond development, I enjoy simplifying complex programming concepts through sho
 
 I thrive on solving real-world problems, exploring new technologies, and building solutions that inspire, empower, and create meaningful impact.
 
-![stats](https://github-readme-stats.vercel.app/api?username=alex&show_icons=true)
 
-![streak](https://streak-stats.demolab.com/?user=alex)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=alex)
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=alex)
 
 ## 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
