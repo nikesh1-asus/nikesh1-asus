@@ -1,8 +1,7 @@
 # Hi 👋, I'm Nikesh Ojha
 🏆 Developer | Open Source Enthusiast | Always Learning  
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikesh1-asus&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikesh1-asus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 📊 GitHub Stats
@@ -16,10 +15,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nikesh1-asus&theme=radical)
 
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/nikesh1-asus/nikesh1-asus/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🌱 I’m currently learning
