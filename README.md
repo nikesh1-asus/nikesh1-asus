@@ -7,6 +7,7 @@ React, Node.js, Django, AI/ML, IoT Development
 
 ## 💬 Ask me about
 Remote Software Developer | Django Developer | Open to Global Opportunities | Building Real-World Web Applications
+
 I’m a Computer Science graduate passionate about building impactful digital products and contributing to the global tech community. I specialize in developing scalable web applications using Python, Flask, Django, and React, designing secure APIs, and deploying reliable cloud infrastructure.
 
 Beyond development, I enjoy simplifying complex programming concepts through short-form content, helping aspiring developers learn faster while growing a strong tech-focused audience.
