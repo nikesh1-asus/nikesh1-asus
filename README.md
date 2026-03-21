@@ -13,15 +13,21 @@ I’m a Computer Science graduate passionate about building impactful digital pr
 Beyond development, I enjoy simplifying complex programming concepts through short-form content, helping aspiring developers learn faster while growing a strong tech-focused audience.
 
 ⚙️ Core Skills
+
 • Full-Stack Development: Python, Flask, Django, React, JavaScript
+
 • DevOps & Deployment: AWS EC2, Docker, GitHub Actions
+
 • Databases: PostgreSQL, MySQL, schema design, performance optimization
+
 • APIs & Integrations: RESTful services, third-party integrations
+
 • Collaboration: Git, Agile methodologies, cross-functional teamwork
+
 • Community & Content: Technical content creation, audience engagement
 
-I thrive on solving real-world problems, exploring new technologies, and building solutions that inspire, empower, and create meaningful impact.
 
+I thrive on solving real-world problems, exploring new technologies, and building solutions that inspire, empower, and create meaningful impact.
 
 
 ## 💻 Programming Languages
